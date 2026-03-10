@@ -1,7 +1,7 @@
-🌍 Air Quality Index Analysis and Public Guidance System
+# 🌍 Air Quality Index Analysis and Public Guidance System
 
 
-📌 Project Overview
+### 📌 Project Overview
 
 Air pollution is one of the most serious environmental and public health issues worldwide. The Air Quality Index (AQI) is used to measure the concentration of pollutants in the air and indicate how safe or harmful the air is for human health. Higher AQI values represent greater levels of air pollution and increased health risks.
 
@@ -9,7 +9,7 @@ The Air Quality Index Analysis and Public Guidance System is a DBMS-based projec
 
 This project demonstrates the use of Database Management Systems (DBMS) to manage environmental data efficiently and provide meaningful insights for public awareness.
 
-🎯 Objectives
+### 🎯 Objectives
 
 Store and manage air quality data using a structured database.
 
@@ -21,7 +21,7 @@ Provide health recommendations to the public.
 
 Visualize air pollution trends and patterns.
 
-⚙️ Features
+### ⚙️ Features
 
 📊 Air Quality Data Storage
 
@@ -33,7 +33,7 @@ Visualize air pollution trends and patterns.
 
 🗂 Structured Database for efficient data management
 
-🧱 System Architecture
+### 🧱 System Architecture
 
 The system works in the following steps:
 
@@ -57,7 +57,7 @@ Public Guidance
 
 Based on AQI category, health precautions are displayed.
 
-🗄 Database Design
+### 🗄 Database Design
 Main Entities
 
 Location
@@ -78,7 +78,7 @@ AQI_Categories
 
 Public_Guidelines
 
-🛠 Technologies Used
+### 🛠 Technologies Used
 
 Database: MySQL / SQL
 
