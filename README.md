@@ -1,4 +1,6 @@
 🌍 Air Quality Index Analysis and Public Guidance System
+
+
 📌 Project Overview
 
 Air pollution is one of the most serious environmental and public health issues worldwide. The Air Quality Index (AQI) is used to measure the concentration of pollutants in the air and indicate how safe or harmful the air is for human health. Higher AQI values represent greater levels of air pollution and increased health risks.
